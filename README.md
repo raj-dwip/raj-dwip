@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and Computer Vision 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on Computer vision projects
-- 📫 How to reach me rajdwipdas575@gmail[dot]com
+- 📫 How to reach me rajdwipdas575[at]gmail[dot]com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love physics 
 
