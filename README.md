@@ -1,4 +1,4 @@
-Interested in math, theoretical physics, algorithm design and analysis, scientific computing and simulations 
+Interested in math, Systems, ML, scientific computing and simulations 
 
 <!---
 raj-dwip/raj-dwip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
